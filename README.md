@@ -1,1 +1,1 @@
-# Automatisation-d-un-syst-me-de-gestion-d-inventaire
+# Automatisation d'un systeme de gestion d'inventaire
